@@ -20,7 +20,7 @@ Note: This implementation has not been tested on a Linux machine, although there
 
 
 
-The user should see the following files within RecognizeLangCNN:
+The user should see the following files:
 - ImageNeuralNet.py
 - TestImageNeuralNet.py
 - TestSingleImage.py
